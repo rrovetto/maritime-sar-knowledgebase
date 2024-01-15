@@ -20,6 +20,8 @@ The scope includes preserving and storing:
 - interpersonal and management knowledge that helfully facilitate mission success, positive and safe marine SAR culture,
 - etc. 
 
+![image](images/AccessDiagram_International-Database-MarineSAR-Knowledge_Rovetto_v1.jpg)
+
 ##  Author
 [Robert J. Rovetto](https://github.com/rrovetto) -- [Contact](mailto:rrovetto@terpalum.umd.edu)
 - Maritime safety professional, Certified commercial mariner, Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto), Knowledge representation practitioner
