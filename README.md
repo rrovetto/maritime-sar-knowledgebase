@@ -5,6 +5,10 @@ A project developing a database and knowledge sharing framework for maritime sea
 - In-progress in authors own time, but development is dependent on formal support.
 - Formal support is presently needed: funding, legal, technological resources, organizational, ...
 
+## Description
+
+![image](images/International-Database-MarineSAR-Knowledge_Rovetto_v1.jpg)
+
 ## Author
 [Robert J. Rovetto](https://github.com/rrovetto) -- [Contact](mailto:rrovetto@terpalum.umd.edu)
 - Maritime safety professional, Certified commercial mariner, Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto), Knowledge representation practitioner
