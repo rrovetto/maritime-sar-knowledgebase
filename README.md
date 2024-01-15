@@ -3,7 +3,7 @@ A project developing a database and knowledge sharing framework for maritime sea
 
 ## Status
 - In-progress in authors own time, but development is dependent on formal support.
-- Formal support is presently needed: funding, legal, technological resources, organizational, ...
+- Formal support is presently desired: work partners, funding, legal, technological resources, organizational, ...
 
 ## Description
 
