@@ -9,7 +9,9 @@ A project developing a database and knowledge sharing framework for maritime sea
 
 ![image](images/International-Database-MarineSAR-Knowledge_Rovetto_v1.jpg)
 
-The goal of this project is to create an internationally-accessible databse for the global maritime search and rescue (SAR community to access and add entries about: lessons-learned, best-practices, and recommendations for operations, managemenet and other topics. This includes preserving and storing:
+The goal of this project is to create an internationally-accessible databse for the global maritime search and rescue (SAR community to access and add entries about: lessons-learned, best-practices, and recommendations for operations, managemenet and other topics. In all this supports an organizations _knowledge management_ strategy in the following ways. The database containing the target information can be understood as a knowledgebase. This single or multiple knowledgebase(s) facilitates _knowledge preservation_. The intertnational scope, accessibility, and contributions facilitates knowledge transfer and knowledge exchange/sharing; it also afford future data analysis for added _knowledge discovery_. 
+
+The scope includes preserving and storing:
 - essential know-how and information for safety and successfully conducting water SAR missions and training exercises
 - the implicit knowledge held and learned by seasoned practitioners
 - data and discoveries from data or studies
