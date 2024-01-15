@@ -15,7 +15,8 @@ The goal of this project is to create an internationally-accessible databse for 
 - data and discoveries from data or studies
 - organizational or internal best-practices that a given org. is willing to share as a global recommendation
 - 101 essential knowledge
-- interpersonal and management knowledge that helfully facilitate mission success, positive and safe marine SAR culture, etc. 
+- interpersonal and management knowledge that helfully facilitate mission success, positive and safe marine SAR culture,
+- etc. 
 
 ##  Author
 [Robert J. Rovetto](https://github.com/rrovetto) -- [Contact](mailto:rrovetto@terpalum.umd.edu)
