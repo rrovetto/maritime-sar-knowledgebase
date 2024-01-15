@@ -9,9 +9,15 @@ A project developing a database and knowledge sharing framework for maritime sea
 
 ![image](images/International-Database-MarineSAR-Knowledge_Rovetto_v1.jpg)
 
-The goal of this project is to create an internationally-accessible databse for the global maritime search and rescue community to access and add entries about: lessons-learned, best-practices, and recommendations for operations, managemenet and other topics. 
+The goal of this project is to create an internationally-accessible databse for the global maritime search and rescue (SAR community to access and add entries about: lessons-learned, best-practices, and recommendations for operations, managemenet and other topics. This includes preserving and storing:
+- essential know-how and information for safety and successfully conducting water SAR missions and training exercises
+- the implicit knowledge held and learned by seasoned practitioners
+- data and discoveries from data or studies
+- organizational or internal best-practices that a given org. is willing to share as a global recommendation
+- 101 essential knowledge
+- interpersonal and management knowledge that helfully facilitate mission success, positive and safe marine SAR culture, etc. 
 
-## Author
+##  Author
 [Robert J. Rovetto](https://github.com/rrovetto) -- [Contact](mailto:rrovetto@terpalum.umd.edu)
 - Maritime safety professional, Certified commercial mariner, Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto), Knowledge representation practitioner
 - [Directly hire for knowledge modeling at this website](https://tinyurl.com/yas7trzy) or [contact](rrovetto@terpalum.umd.edu) for alternative arrangements.
