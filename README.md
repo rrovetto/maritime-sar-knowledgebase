@@ -2,7 +2,7 @@
 A project developing a database and knowledge sharing framework for maritime search and rescue, including best-practices and lessons-learned.
 
 ## Status
-- In-progress in authors own time, but development is dependent on formal support.
+- In-progress.
 - Formal support is presently desired: work partners, funding, legal, technological resources, organizational, ...
 
 ## Description
