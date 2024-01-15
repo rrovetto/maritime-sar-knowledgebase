@@ -1,24 +1,22 @@
-# Maritime SAR Knowledgebase
+# Maritime Search and Rescue Knowledgebase
 A project developing a database and knowledge sharing framework for maritime search and rescue, including best-practices and lessons-learned.
 
 ## Status
-The service provider is available for hire, collaborations, etc. Products are available for purchase (contact for list). 
-This GitHub repository is _under-construction_, and provides links to others for specific concepts addressed by C<sup>2</sup>.
+- In-progress in authors own time, but development is dependent on formal support.
+- Formal support is presently needed: funding, legal, technological resources, organizational, ...
 
-## Hire
-[Directly hire the provider at this website](https://tinyurl.com/yas7trzy) or [contact](rrovetto@terpalum.umd.edu) for alternative arrangements.
-
-### Provider
-[Robert J. Rovetto](https://github.com/rrovetto)
-- Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto), Knowledge representation practitioner
-- [Contact](mailto:rrovetto@terpalum.umd.edu)
+## Author
+[Robert J. Rovetto](https://github.com/rrovetto) -- [Contact](mailto:rrovetto@terpalum.umd.edu)
+- Maritime safety professional, Certified commercial mariner, Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto), Knowledge representation practitioner
+- [Directly hire for knowledge modeling at this website](https://tinyurl.com/yas7trzy) or [contact](rrovetto@terpalum.umd.edu) for alternative arrangements.
 
 ## Works
-- 2019 Proposal - “Consolidating and Sharing maritime SAR Information for Improved Training - One project proposal and One call for contributions”, Submisison to World Maritime Rescue Congress, 2019.
-- [Folder of submission documentation](https://drive.google.com/drive/folders/1wWgdWdPG5B9OlZ5zOEw4n-8LlcuZrk8_?usp=sharing)
--   Email documentation available on request
+- **Database online** - Contact to submit entries to the best-practices database
+- **2019 Proposal** - “Consolidating and Sharing maritime SAR Information for Improved Training - One project proposal and One call for contributions”, Submisison to World Maritime Rescue Congress, 2019.
+	- [Submission documentation](https://drive.google.com/drive/folders/1wWgdWdPG5B9OlZ5zOEw4n-8LlcuZrk8_?usp=sharing)
+	- Email documentation available on request
 <details>
-  <summary>Click to expand for summary</summary>
+  <summary>Click to read 2019 proposal summary</summary>
 	
 "The community stands to improve training by aggregating and sharing maritime SAR information.
 This communication discusses two project concepts. One is a project proposal to develop an
@@ -37,9 +35,11 @@ The second project, an existing compilation of maritime SAR training and standar
 Contributions are welcome and should be directed to the author. The author seeks partners and funding to pursue both or either of these 
 projects for consolidating maritime SAR information for knowledge sharing and improved training."
 
-"“This paper proposes the development of an international database of maritime SAR best-practices. The author (Rovetto) has begun a preliminary repository, drawing on his training and boating experiences. The authors asks the audience if they are interested in contributing to such a repository.  A best-practices database can be incorporated into the IMRF, IMO, or another neutral organization. It should be open and freely accessible. We draw on the collective and diverse experience of the author(s) to offer a list of recommended practices for crew members aboard rescue boats. The practices range from training suggestions, to safety precautions, to managerial and interpersonal approaches. Some maritime SAR organizations employ some of the recommendations, while others do not. Some suggestions may appear obvious, but observing existing paid and unpaid crews will demonstrate gaps in safety, lack of knowledge, etc”
+“This paper proposes the development of an international database of maritime SAR best-practices. The author (Rovetto) has begun a preliminary repository, drawing on his training and boating experiences. The authors asks the audience if they are interested in contributing to such a repository.  A best-practices database can be incorporated into the IMRF, IMO, or another neutral organization. It should be open and freely accessible. We draw on the collective and diverse experience of the author(s) to offer a list of recommended practices for crew members aboard rescue boats. The practices range from training suggestions, to safety precautions, to managerial and interpersonal approaches. Some maritime SAR organizations employ some of the recommendations, while others do not. Some suggestions may appear obvious, but observing existing paid and unpaid crews will demonstrate gaps in safety, lack of knowledge, etc”
 
 </details>
+
+### Related Projects
 
   
 ## Copyright
