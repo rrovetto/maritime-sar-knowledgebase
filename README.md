@@ -15,7 +15,7 @@ A project developing a database and knowledge sharing framework for maritime sea
 - [Directly hire for knowledge modeling at this website](https://tinyurl.com/yas7trzy) or [contact](rrovetto@terpalum.umd.edu) for alternative arrangements.
 
 ## Works
-- **Database online** - Contact to submit entries to the best-practices database
+- **Database online** - Contact to submit entries to the best-practices database. [Online location](https://docs.google.com/spreadsheets/d/12O3wvgPsFdO-vG8awN8Y7sLTJ5P5NIpn/)
 - **2019 Proposal** - “Consolidating and Sharing maritime SAR Information for Improved Training - One project proposal and One call for contributions”, Submisison to World Maritime Rescue Congress, 2019.
 	- [Submission documentation](https://drive.google.com/drive/folders/1wWgdWdPG5B9OlZ5zOEw4n-8LlcuZrk8_?usp=sharing)
 	- Email documentation available on request
