@@ -66,4 +66,7 @@ Not authorized for commercial use unless explicitly negotiated with the author. 
 No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
 
 ## Attribution
-Attribution is required. Cite as: "Maritime Search and Rescue Knwoeldgebase", Robert J. Rovetto, 2024. GitHub page.
+Attribution is required. 
+Cite as either: 
+- "Maritime Search and Rescue Knowledgebase", Robert J. Rovetto, 2019-2024. GitHub page.
+- "International Maritime Search and Rescue Database", Robert J. Rovetto, 2019-2024. GitHub page.
