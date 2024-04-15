@@ -1,5 +1,5 @@
-# Maritime Search and Rescue Knowledgebase
-A project developing a database and knowledge sharing framework for maritime search and rescue, including best-practices and lessons-learned.<img align="right" width="80" height="100" src="https://github.com/rrovetto/maritime-sar-knowledgebase/blob/3d3234e2c8d414f8718b667db66998f608338053/images/marinSARdb-logo.jpg">
+# Maritime Search and Rescue Knowledgebase <img align="left" width="80" height="100" src="https://github.com/rrovetto/maritime-sar-knowledgebase/blob/3d3234e2c8d414f8718b667db66998f608338053/images/marinSARdb-logo.jpg">
+A project developing a database and knowledge sharing framework for maritime search and rescue, including best-practices and lessons-learned.
 
 
 ## Status
@@ -10,7 +10,7 @@ A project developing a database and knowledge sharing framework for maritime sea
 
 ![image](images/International-Database-MarineSAR-Knowledge_Rovetto_v1.jpg)
 
-The goal of this project is to create an internationally-accessible databse for the global maritime search and rescue (SAR community to access and add entries about: lessons-learned, best-practices, and recommendations for operations, managemenet and other topics. In all this supports an organizations _knowledge management_ strategy in the following ways. The database containing the target information can be understood as a knowledgebase. This single or multiple knowledgebase(s) facilitates _knowledge preservation_. The intertnational scope, accessibility, and contributions facilitates knowledge transfer and knowledge exchange/sharing; it also afford future data analysis for added _knowledge discovery_. 
+The goal of this project is to create an internationally-accessible database for the global maritime search and rescue (SAR community to access and add entries about: lessons-learned, best-practices, and recommendations for operations, managemenet and other topics. In all this supports an organizations _knowledge management_ strategy in the following ways. The database containing the target information can be understood as a knowledgebase. This single or multiple knowledgebase(s) facilitates _knowledge preservation_. The intertnational scope, accessibility, and contributions facilitates knowledge transfer and knowledge exchange/sharing; it also afford future data analysis for added _knowledge discovery_. 
 
 The scope includes preserving and storing:
 - essential know-how and information for safety and successfully conducting water SAR missions and training exercises
