@@ -1,5 +1,6 @@
 # Maritime Search and Rescue Knowledgebase
-A project developing a database and knowledge sharing framework for maritime search and rescue, including best-practices and lessons-learned.
+A project developing a database and knowledge sharing framework for maritime search and rescue, including best-practices and lessons-learned.<img align="right" width="80" height="100" src="https://github.com/rrovetto/maritime-sar-knowledgebase/blob/3d3234e2c8d414f8718b667db66998f608338053/images/marinSARdb-logo.jpg">
+
 
 ## Status
 - In-progress.
