@@ -1,5 +1,6 @@
 # Maritime Search and Rescue Knowledgebase <img align="left" width="80" height="100" src="images/marinSARdb-logo.jpg">
-A project developing a database and knowledge sharing framework for maritime search and rescue, including best-practices and lessons-learned.
+A project developing a database and knowledge sharing framework for maritime search and rescue, including best-practices and lessons-learned. 
+[Description online Sutsey](https://www.surtsey.org/projects/the-maritime-search-and-rescue-database)
 
 ## Status
 - In-progress.
