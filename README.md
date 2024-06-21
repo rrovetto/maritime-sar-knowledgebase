@@ -59,7 +59,7 @@ projects for consolidating maritime SAR information for knowledge sharing and im
 </details>
 
 ### Related Projects
-- The Maritime Search and Rescue Bibliography, Robert J. Rovetto
+- [The Maritime Search and Rescue Bibliography](https://www.surtsey.org/projects/maritime-sar-bibliography), Robert J. Rovetto
   
 ## Copyright
 ©2019-2024, Robert J. Rovetto. All rights reserved.
