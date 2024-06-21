@@ -3,7 +3,7 @@ A project developing a database and knowledge sharing framework for maritime sea
 
 ## Status
 - In-progress.
-- Formal support is presently desired: work partners, funding, legal, technological resources, organizational, ...
+- Formal support is presently need: partner organizations, funding, technological resources, ...
 
 ## Description
 
@@ -29,11 +29,12 @@ The scope includes preserving and storing:
 
 ## Works
 - **Database online** - Contact to submit entries to the best-practices database. [Online location](https://docs.google.com/spreadsheets/d/12O3wvgPsFdO-vG8awN8Y7sLTJ5P5NIpn/)
-- **2019 Proposal** - “Consolidating and Sharing maritime SAR Information for Improved Training - One project proposal and One call for contributions”, Submisison to World Maritime Rescue Congress, 2019.
+- "KnowSAR - Toward an International Maritime SAR Database and Knowledgebase", Grant proposal submitted (but rejected) to Lloyds Register Small Grant Scheme.
+- **2019 Proposal** - “Consolidating and Sharing maritime SAR Information for Improved Training - One project proposal and One call for contributions”, Submisison to World Maritime Rescue Congress (an IMRF-International Maritime Rescue Congress event), 2019, Canada.
 	- [Submission documentation](https://drive.google.com/drive/folders/1wWgdWdPG5B9OlZ5zOEw4n-8LlcuZrk8_?usp=sharing)
 	- Email documentation available on request
 <details>
-  <summary>Click to read 2019 proposal summary</summary>
+  <summary>Click to read sample of 2019 proposal</summary>
 	
 "The community stands to improve training by aggregating and sharing maritime SAR information.
 This communication discusses two project concepts. One is a project proposal to develop an
@@ -57,7 +58,7 @@ projects for consolidating maritime SAR information for knowledge sharing and im
 </details>
 
 ### Related Projects
-
+- The Maritime Search and Rescue Bibliography, Robert J. Rovetto
   
 ## Copyright
 ©2019-2024, Robert J. Rovetto. All rights reserved.
