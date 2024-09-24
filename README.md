@@ -28,9 +28,13 @@ The scope includes preserving and storing:
 - Maritime safety professional, Certified commercial mariner, Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto), Knowledge representation practitioner
 - [Directly hire for knowledge modeling at this website](https://tinyurl.com/yas7trzy) or [contact](rrovetto@terpalum.umd.edu) for alternative arrangements.
 
-## Works
+## Works & History
 - **Database online** - Contact to submit entries to the best-practices database. [Online location](https://docs.google.com/spreadsheets/d/12O3wvgPsFdO-vG8awN8Y7sLTJ5P5NIpn/)
-- "KnowSAR - Toward an International Maritime SAR Database and Knowledgebase", Grant proposal submitted (but rejected) to Lloyds Register Small Grant Scheme.
+- Paper "Toward an International Database for Maritime Search and Rescue"
+	- 2024 submitted to but rejected from Australian Journal of Emergency Management.
+ 	- 2024 submmitted to Journal of Emergency Management
+- Grant proposal "KnowSAR - Toward an International Maritime SAR Database and Knowledgebase", submitted to but rejected from Lloyds Register Small Grant Scheme.
+
 - **2019 Proposal** - “Consolidating and Sharing maritime SAR Information for Improved Training - One project proposal and One call for contributions”, Submisison to World Maritime Rescue Congress (an IMRF-International Maritime Rescue Congress event), 2019, Canada.
 	- [Submission documentation](https://drive.google.com/drive/folders/1wWgdWdPG5B9OlZ5zOEw4n-8LlcuZrk8_?usp=sharing)
 	- Email documentation available on request
@@ -57,10 +61,6 @@ projects for consolidating maritime SAR information for knowledge sharing and im
 “This paper proposes the development of an international database of maritime SAR best-practices. The author (Rovetto) has begun a preliminary repository, drawing on his training and boating experiences. The authors asks the audience if they are interested in contributing to such a repository.  A best-practices database can be incorporated into the IMRF, IMO, or another neutral organization. It should be open and freely accessible. We draw on the collective and diverse experience of the author(s) to offer a list of recommended practices for crew members aboard rescue boats. The practices range from training suggestions, to safety precautions, to managerial and interpersonal approaches. Some maritime SAR organizations employ some of the recommendations, while others do not. Some suggestions may appear obvious, but observing existing paid and unpaid crews will demonstrate gaps in safety, lack of knowledge, etc”
 
 </details>
-
-- Paper "Toward an International Database for Maritime Search and Rescue"
-- 	submitted to but rejected from Australian Journal of Emergency Management.
-- 	submmitted to Journal of Emergency Management.
 
 ### Related Projects
 - [The Maritime Search and Rescue Bibliography](https://www.surtsey.org/projects/maritime-sar-bibliography), Robert J. Rovetto
