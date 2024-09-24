@@ -58,6 +58,10 @@ projects for consolidating maritime SAR information for knowledge sharing and im
 
 </details>
 
+- Paper "Toward an International Database for Maritime Search and Rescue"
+- 	submitted to but rejected from Australian Journal of Emergency Management.
+- 	submmitted to Journal of Emergency Management.
+
 ### Related Projects
 - [The Maritime Search and Rescue Bibliography](https://www.surtsey.org/projects/maritime-sar-bibliography), Robert J. Rovetto
   
