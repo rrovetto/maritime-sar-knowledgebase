@@ -1,10 +1,10 @@
 # Maritime Search and Rescue Knowledgebase <img align="left" width="80" height="100" src="images/marinSARdb-logo.jpg">
 Developing a database and knowledge sharing framework for maritime search and rescue, from best-practices and lessons-learned to SAR resources. 
-[Description online Sutsey](https://www.surtsey.org/projects/the-maritime-search-and-rescue-database)
 
+You can **Help make sea rescue safer by sharing knowledge**
 ## Status
 - In-progress.
-- _Open to_: Anyone who shares the vision. You can **Help make sea rescue safer by sharing knowledge**
+- Do you share the vision? Contact to collaborate who shares the vision. 
 - _Seeking_: Partner organizations, investors, sponsors, technological resources, technical service-providers.
 
 ## Description
@@ -36,6 +36,7 @@ The scope includes preserving and storing:
  	- 2024 submmitted to Journal of Emergency Management
 - Grant proposal "KnowSAR - Toward an International Maritime SAR Database and Knowledgebase", submitted to but rejected from Lloyds Register Small Grant Scheme.
 
+- [Previous Description page at Surtsey.org](https://web.archive.org/web/20250324025411/https://www.surtsey.org/projects/the-maritime-search-and-rescue-database/)(Archived webpage)
 - **2019 Proposal** - “Consolidating and Sharing maritime SAR Information for Improved Training - One project proposal and One call for contributions”, Submisison to World Maritime Rescue Congress (an IMRF-International Maritime Rescue Congress event), 2019, Canada.
 	- [Submission documentation](https://drive.google.com/drive/folders/1wWgdWdPG5B9OlZ5zOEw4n-8LlcuZrk8_?usp=sharing)
 	- Email documentation available on request
