@@ -29,9 +29,8 @@ Preserving and storing:
 
 ## Access & Contribute Entries
 - **Prototype Database Online**
-[Online location](https://purl.org/knowsar-contribute) redirects to [GoogleSheet](https://docs.google.com/spreadsheets/d/1En-2klV5RyvoVIUaFKFvSG4Ik1SD2-U_MXMcHJFRY7Y/)
 - **Current Project Description Page**: 	https://purl.org/know-sar (Redirects to GitHub Io page)
-- **To Contribute Entries in Templates**: 	https://purl.org/knowsar-contribute (redirects to GoogleSheet )
+- **To Contribute Entries in Templates**: 	https://purl.org/knowsar-contribute (redirects to [GoogleSheet](https://docs.google.com/spreadsheets/d/1En-2klV5RyvoVIUaFKFvSG4Ik1SD2-U_MXMcHJFRY7Y/))
 - **Submit your input via online Form**:	https://tinyurl.com/KnowSAR-GenInput (Redirect to GoogleForm )
 - **To Donate**: 				https://purl.org/know-sar-donate (Redirects to PayPal)
 
