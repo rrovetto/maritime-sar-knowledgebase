@@ -1,11 +1,12 @@
 # Maritime Search and Rescue Knowledgebase <img align="left" width="80" height="100" src="images/marinSARdb-logo.jpg">
 Developing a database and knowledge sharing framework for maritime search and rescue, from best-practices and lessons-learned to SAR resources. 
 
-You can **Help make sea rescue safer by sharing knowledge**
+You can **Help make sea rescue safer by sharing knowledge.** [Donate here](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=Help+create+the+worlds+first+database+about+maritime+search+%26+rescue+knowledge.+Saving+lives+by+sharing+knowledge.+Thank+you.&currency_code=USD)
 ## Status
 - In-progress.
 - Do you share the vision? [Contact to Collaborate](mailto:maritimeSARemail@gmail.com) who shares the vision. 
 - _Seeking_: Partner organizations, investors, sponsors, technological resources, technical service-providers.
+- _Project name_: Know-SAR. The name "Know-SAR" has the following meaning. "Know" is short for "Knowledge", minimally pointing to the goal of preserving and sharing SAR knowledge. It also points to innovating in the envisioned AI knowledge-based approach. The pronunciation of the word "know" serves to convey a second meaning: That we aim to achieve a world where there are no SAR events, a state of persistent safety. Toward that ideal state, the project will facilitate sharing of knowledge in order to maximize continuous improvement in SAR operations and research. 
 
 ## Description
 
@@ -13,14 +14,16 @@ You can **Help make sea rescue safer by sharing knowledge**
 
 The goal of this project is to create an internationally-accessible database for the global maritime search and rescue (SAR community to access and add entries about: lessons-learned, best-practices, and recommendations for operations, managemenet and other topics. In all this supports an organizations _knowledge management_ strategy in the following ways. The database containing the target information can be understood as a knowledgebase. This single or multiple knowledgebase(s) facilitates _knowledge preservation_. The intertnational scope, accessibility, and contributions facilitates knowledge transfer and knowledge exchange/sharing; it also afford future data analysis for added _knowledge discovery_. 
 
-The scope includes preserving and storing:
-- essential know-how and information for safety and successfully conducting water SAR missions and training exercises
-- the implicit knowledge held and learned by seasoned practitioners
-- data and discoveries from data or studies
-- organizational or internal best-practices that a given org. is willing to share as a global recommendation
+## Scope 
+Preserving and storing:
+- Essential know-how and information for safety and successfully conducting water SAR missions and training exercises
+- Implicit knowledge held and learned by seasoned practitioners
+- Data and discoveries from data or studies
+- Organizational or internal best-practices that a given org. is willing to share as a global recommendation
 - 101 essential knowledge
-- interpersonal and management knowledge that helfully facilitate mission success, positive and safe marine SAR culture,
-- etc. 
+- Interpersonal and management knowledge that helfully facilitate mission success, positive and safe marine SAR culture,
+- Vehcile & Equipment specificaitons
+- ... to be added ... 
 
 ![image](images/AccessDiagram_International-Database-MarineSAR-Knowledge_Rovetto_v1.jpg)
 
@@ -30,12 +33,11 @@ The scope includes preserving and storing:
 - [Directly hire for knowledge modeling at this website](https://tinyurl.com/yas7trzy) or [contact](rrovetto@terpalum.umd.edu) for alternative arrangements.
 
 ## Works & History
-- **Database online** - Contact to submit entries to the best-practices database. [Online location](https://docs.google.com/spreadsheets/d/12O3wvgPsFdO-vG8awN8Y7sLTJ5P5NIpn/)
+- **Database online** - Contact to submit entries to the best-practices database. [Online location](https://purl.org/knowsar-contribute) redirects to [GoogleSheet](https://docs.google.com/spreadsheets/d/1En-2klV5RyvoVIUaFKFvSG4Ik1SD2-U_MXMcHJFRY7Y/)
 - Paper "Toward an International Database for Maritime Search and Rescue"
 	- 2024 submitted to but rejected from Australian Journal of Emergency Management.
- 	- 2024 submmitted to Journal of Emergency Management
+ 	- 2024 submmitted and accepted to Journal of Emergency Management.
 - Grant proposal "KnowSAR - Toward an International Maritime SAR Database and Knowledgebase", submitted to but rejected from Lloyds Register Small Grant Scheme.
-
 - [Previous Description page at Surtsey.org](https://web.archive.org/web/20250324025411/https://www.surtsey.org/projects/the-maritime-search-and-rescue-database/)(Archived webpage)
 - **2019 Proposal** - “Consolidating and Sharing maritime SAR Information for Improved Training - One project proposal and One call for contributions”, Submisison to World Maritime Rescue Congress (an IMRF-International Maritime Rescue Congress event), 2019, Canada.
 	- [Submission documentation](https://drive.google.com/drive/folders/1wWgdWdPG5B9OlZ5zOEw4n-8LlcuZrk8_?usp=sharing)
