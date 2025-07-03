@@ -27,13 +27,20 @@ Preserving and storing:
 
 ![image](images/AccessDiagram_International-Database-MarineSAR-Knowledge_Rovetto_v1.jpg)
 
+## Access & Contribute Entries
+- **Prototype Database Online**
+[Online location](https://purl.org/knowsar-contribute) redirects to [GoogleSheet](https://docs.google.com/spreadsheets/d/1En-2klV5RyvoVIUaFKFvSG4Ik1SD2-U_MXMcHJFRY7Y/)
+- **Current Project Description Page**: 	https://purl.org/know-sar (Redirects to GitHub Io page)
+- **To Contribute Entries in Templates**: 	https://purl.org/knowsar-contribute (redirects to GoogleSheet )
+- **Submit your input via online Form**:	https://tinyurl.com/KnowSAR-GenInput (Redirect to GoogleForm )
+- **To Donate**: 				https://purl.org/know-sar-donate (Redirects to PayPal)
+
 ##  Author
 [Robert J. Rovetto](https://github.com/rrovetto) -- [Contact](mailto:rrovetto@terpalum.umd.edu)
 - Maritime safety professional, Certified commercial mariner, Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto), Knowledge representation practitioner
 - [Directly hire for knowledge modeling at this website](https://tinyurl.com/yas7trzy) or [contact](rrovetto@terpalum.umd.edu) for alternative arrangements.
 
 ## Works & History
-- **Database online** - Contact to submit entries to the best-practices database. [Online location](https://purl.org/knowsar-contribute) redirects to [GoogleSheet](https://docs.google.com/spreadsheets/d/1En-2klV5RyvoVIUaFKFvSG4Ik1SD2-U_MXMcHJFRY7Y/)
 - Paper "Toward an International Database for Maritime Search and Rescue"
 	- 2024 submitted to but rejected from Australian Journal of Emergency Management.
  	- 2024 submmitted and accepted to Journal of Emergency Management.
