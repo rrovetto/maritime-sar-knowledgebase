@@ -1,10 +1,11 @@
 # Maritime Search and Rescue Knowledgebase <img align="left" width="80" height="100" src="images/marinSARdb-logo.jpg">
-A project developing a database and knowledge sharing framework for maritime search and rescue, including best-practices and lessons-learned. 
+Developing a database and knowledge sharing framework for maritime search and rescue, from best-practices and lessons-learned to SAR resources. 
 [Description online Sutsey](https://www.surtsey.org/projects/the-maritime-search-and-rescue-database)
 
 ## Status
 - In-progress.
-- Formal support is presently need: partner organizations, funding, technological resources, ...
+- _Open to_: Anyone who shares the vision. You can **Help make sea rescue safer by sharing knowledge**
+- _Seeking_: Partner organizations, investors, sponsors, technological resources, technical service-providers.
 
 ## Description
 
@@ -66,7 +67,7 @@ projects for consolidating maritime SAR information for knowledge sharing and im
 - [The Maritime Search and Rescue Bibliography](https://www.surtsey.org/projects/maritime-sar-bibliography), Robert J. Rovetto
   
 ## Copyright
-©2019-2024, Robert J. Rovetto. All rights reserved.
+©2019-2025, Robert J. Rovetto. All rights reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
 No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
 
