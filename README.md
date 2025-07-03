@@ -4,7 +4,7 @@ Developing a database and knowledge sharing framework for maritime search and re
 You can **Help make sea rescue safer by sharing knowledge**
 ## Status
 - In-progress.
-- Do you share the vision? Contact to collaborate who shares the vision. 
+- Do you share the vision? [Contact to Collaborate](mailto:maritimeSARemail@gmail.com) who shares the vision. 
 - _Seeking_: Partner organizations, investors, sponsors, technological resources, technical service-providers.
 
 ## Description
