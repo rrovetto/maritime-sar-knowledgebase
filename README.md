@@ -3,13 +3,19 @@ Developing a database and knowledge sharing framework for maritime search and re
 
 <p align="center">You can <b>Help make sea rescue safer by sharing knowledge.</b></p>
 
-Do you share the vision? [Contact to Collaborate](https://thespiritofsar.wordpress.com/contact). [Donate via PayPal](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=Help+create+the+worlds+first+database+about+maritime+search+%26+rescue+knowledge.+Saving+lives+by+sharing+knowledge.+Thank+you.&currency_code=USD) or [Donate via Patreon](https://patreon.com/user?u=16992629)
+Do you share the vision? [Contact to Collaborate](https://thespiritofsar.wordpress.com/contact). [Donate to Develop (PayPal)](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=Help+create+the+worlds+first+database+about+maritime+search+%26+rescue+knowledge.+Saving+lives+by+sharing+knowledge.+Thank+you.&currency_code=USD) or [Donate via Patreon](https://patreon.com/user?u=16992629)
 
-## Description
-
+## Summary
 ![image](images/International-Database-MarineSAR-Knowledge_Rovetto_v1.jpg)
 
 The goal of this project is R&D development a globally-accessible database of maritime search and rescue knowledge, tentatively called Know-SAR. A testbed simple prototype, using accessible online systems has been created (access & contribute via links below). The vision is to allow users to _search for_ and _contribute SAR information_: lessons-learned, best-practices, recommendations, and specific topics such as SAR vehicles and SAR events. 
+
+## Access & Contribute Entries
+- **Current Project Description Page**: 	[https://purl.org/know-sar](https://purl.org/know-sar) (Redirects to GitHub-Io page)
+- **Contribute Entries in Templates**: 		[https://purl.org/knowsar-contribute](https://purl.org/knowsar-contribute) (redirects to [GoogleSheet](https://docs.google.com/spreadsheets/d/1En-2klV5RyvoVIUaFKFvSG4Ik1SD2-U_MXMcHJFRY7Y/))
+- **Contribute Best-practices (via Form)**:	[https://purl.org/knowsar-bestpractices-form](https://purl.org/knowsar-bestpractices-form) (redirect to GoogleForm)
+- **Submit your Input via online Form**:	[https://tinyurl.com/KnowSAR-GenInput](https://tinyurl.com/KnowSAR-GenInput) (Redirect to GoogleForm )
+- **Donate**:	 				[https://purl.org/know-sar-donate](https://purl.org/know-sar-donate) (Redirects to PayPal) or [via Patreon](https://patreon.com/user?u=16992629)
 
 ## Scope 
 Preserving and storing:
@@ -24,24 +30,17 @@ Preserving and storing:
 
 ![image](images/AccessDiagram_International-Database-MarineSAR-Knowledge_Rovetto_v1.jpg)
 
-## Access & Contribute Entries
-- **Current Project Description Page**: 	[https://purl.org/know-sar](https://purl.org/know-sar) (Redirects to GitHub-Io page)
-- **Contribute Entries in Templates**: 		[https://purl.org/knowsar-contribute](https://purl.org/knowsar-contribute) (redirects to [GoogleSheet](https://docs.google.com/spreadsheets/d/1En-2klV5RyvoVIUaFKFvSG4Ik1SD2-U_MXMcHJFRY7Y/))
-- **Contribute Best-practices (via Form)**:	[https://purl.org/knowsar-bestpractices-form](https://purl.org/knowsar-bestpractices-form) (redirect to GoogleForm)
-- **Submit your Input via online Form**:	[https://tinyurl.com/KnowSAR-GenInput](https://tinyurl.com/KnowSAR-GenInput) (Redirect to GoogleForm )
-- **Donate**:	 				[https://purl.org/know-sar-donate](https://purl.org/know-sar-donate) (Redirects to PayPal) or [via Patreon](https://patreon.com/user?u=16992629)
-
 It supports an organizations _knowledge management_ strategy in the following ways. The database containing the information expressing knowledge, making the system understood informally as a knowledgebase. With AI knowledge-based approaches, it is formally a knowledgebase. Either single or multiple knowledgebase(s) facilitates _knowledge preservation_ and data archiving. The intertnational scope, accessibility, and contribution potential facilitates _knowledge transfer_ and _knowledge exchange/sharing_; it also afford future data analysis for added _knowledge discovery_. 
 
 ## Status
 - In-progress.
 - _Seeking_: Partner organizations, investors, sponsors, technological resources, technical service-providers.
 - _Project name_: Know-SAR. The name "Know-SAR" has the following meaning. "Know" is short for "Knowledge", minimally pointing to the goal of preserving and sharing SAR knowledge. It also points to innovating in the envisioned AI knowledge-based approach. The pronunciation of the word "know" serves to convey a second meaning: That we aim to achieve a world where there are no SAR events, a state of persistent safety. Toward that ideal state, the project will facilitate sharing of knowledge in order to maximize continuous improvement in SAR operations and research.
-  
+
 ##  Author
-[Robert J. Rovetto](https://github.com/rrovetto) -- [Contact](mailto:rrovetto@terpalum.umd.edu)
-- Maritime safety professional, Certified commercial mariner, Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto), Knowledge representation practitioner
-- [Directly hire for knowledge modeling at this website](https://tinyurl.com/yas7trzy) or [contact](rrovetto@terpalum.umd.edu) for alternative arrangements.
+- [Robert J. Rovetto](https://github.com/rrovetto) -- [Contact](mailto:rrovetto@terpalum.umd.edu)
+- [Maritime safety professional](https://community.nasbla.org/network/members/profile?UserKey=952c6b10-a6c3-49f7-8356-c2bf1fa62097), Certified commercial mariner, Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto)
+- [Directly Hire for Knowledge Modeling at this website](https://tinyurl.com/yas7trzy) 
 
 ## Works & History
 - Article: "Toward an International Database for Maritime Search and Rescue"
