@@ -1,5 +1,5 @@
-# Maritime Search and Rescue Knowledgebase <img align="left" width="80" height="100" src="images/marinSARdb-logo.jpg">
-Developing a database and knowledge sharing framework for maritime search and rescue, from best-practices and lessons-learned to SAR resources. 
+# The Maritime Search and Rescue Knowledgebase <img align="left" width="80" height="100" src="images/marinSARdb-logo.jpg">
+Developing a database and knowledge sharing framework for maritime search and rescue, from best-practices and lessons-learned to SAR resources. Testbed Concept. 
 
 <p align="center">You can <b>Help make sea rescue safer by sharing knowledge.</b></p>
 
@@ -9,11 +9,11 @@ Do you share the vision? [Contact to Collaborate](https://thespiritofsar.wordpre
 
 ![image](images/International-Database-MarineSAR-Knowledge_Rovetto_v1.jpg)
 
-The goal of this project is to create a globally-accessible database of maritime search and rescue knowledge. It will allow users to search for and contribute SAR information: lessons-learned, best-practices, recommendations, and specific topics such as SAR vehicles and SAR events. In all, this supports an organizations _knowledge management_ strategy in the following ways. The database containing the information expressing knowledge, making the system understood informally as a knowledgebase. With AI knowledge-based approaches, it is formally a knowledgebase. Either single or multiple knowledgebase(s) facilitates _knowledge preservation_ and data archiving. The intertnational scope, accessibility, and contribution potential facilitates _knowledge transfer_ and _knowledge exchange/sharing_; it also afford future data analysis for added _knowledge discovery_. 
+The goal of this project is R&D development a globally-accessible database of maritime search and rescue knowledge, tentatively called Know-SAR. A testbed simple prototype, using accessible online systems has been created (access & contribute via links below). The vision is to allow users to _search for_ and _contribute SAR information_: lessons-learned, best-practices, recommendations, and specific topics such as SAR vehicles and SAR events. 
 
 ## Scope 
 Preserving and storing:
-- _Essential knowledge & know-how_ for conducting aquatic SAR missions and training. 
+- _Essential Knowledge & Know-how_ for conducting aquatic SAR missions and training. 
 - _Implicit knowledge_ held and learned by active, inactive or retired practitioners
 - _Data and discoveries_ from datasets or studies
 - _Organizational or internal best-practices_
@@ -31,20 +31,23 @@ Preserving and storing:
 - **Submit your Input via online Form**:	[https://tinyurl.com/KnowSAR-GenInput](https://tinyurl.com/KnowSAR-GenInput) (Redirect to GoogleForm )
 - **Donate**:	 				[https://purl.org/know-sar-donate](https://purl.org/know-sar-donate) (Redirects to PayPal) or [via Patreon](https://patreon.com/user?u=16992629)
 
+It supports an organizations _knowledge management_ strategy in the following ways. The database containing the information expressing knowledge, making the system understood informally as a knowledgebase. With AI knowledge-based approaches, it is formally a knowledgebase. Either single or multiple knowledgebase(s) facilitates _knowledge preservation_ and data archiving. The intertnational scope, accessibility, and contribution potential facilitates _knowledge transfer_ and _knowledge exchange/sharing_; it also afford future data analysis for added _knowledge discovery_. 
+
 ## Status
 - In-progress.
 - _Seeking_: Partner organizations, investors, sponsors, technological resources, technical service-providers.
-- _Project name_: Know-SAR. The name "Know-SAR" has the following meaning. "Know" is short for "Knowledge", minimally pointing to the goal of preserving and sharing SAR knowledge. It also points to innovating in the envisioned AI knowledge-based approach. The pronunciation of the word "know" serves to convey a second meaning: That we aim to achieve a world where there are no SAR events, a state of persistent safety. Toward that ideal state, the project will facilitate sharing of knowledge in order to maximize continuous improvement in SAR operations and research. 
+- _Project name_: Know-SAR. The name "Know-SAR" has the following meaning. "Know" is short for "Knowledge", minimally pointing to the goal of preserving and sharing SAR knowledge. It also points to innovating in the envisioned AI knowledge-based approach. The pronunciation of the word "know" serves to convey a second meaning: That we aim to achieve a world where there are no SAR events, a state of persistent safety. Toward that ideal state, the project will facilitate sharing of knowledge in order to maximize continuous improvement in SAR operations and research.
+  
 ##  Author
 [Robert J. Rovetto](https://github.com/rrovetto) -- [Contact](mailto:rrovetto@terpalum.umd.edu)
 - Maritime safety professional, Certified commercial mariner, Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto), Knowledge representation practitioner
 - [Directly hire for knowledge modeling at this website](https://tinyurl.com/yas7trzy) or [contact](rrovetto@terpalum.umd.edu) for alternative arrangements.
 
 ## Works & History
-- Paper "Toward an International Database for Maritime Search and Rescue"
+- Article: "Toward an International Database for Maritime Search and Rescue"
 	- 2024 submitted to but rejected from Australian Journal of Emergency Management.
- 	- 2024 submmitted and accepted to Journal of Emergency Management.
-- [Grant proposal](https://github.com/rrovetto/rrovetto/blob/5160ddd1f3c18db8d6eafbe4eead23834d163a4d/affiliations-and-work/submissions/Lloyds/KnowSAR_MarineSAR-DB_LloydsGrantApp_Rovetto.pdf) "KnowSAR - Toward an International Maritime SAR Database and Knowledgebase", submitted to but rejected from Lloyds Register Small Grant Scheme.
+ 	- 2024 submmitted & accepted to Journal of Emergency Management.
+- [Grant proposal](https://github.com/rrovetto/rrovetto/blob/5160ddd1f3c18db8d6eafbe4eead23834d163a4d/affiliations-and-work/submissions/Lloyds/KnowSAR_MarineSAR-DB_LloydsGrantApp_Rovetto.pdf) "KnowSAR - Toward an International Maritime SAR Database and Knowledgebase", submitted but rejected from Lloyds Register Small Grant Scheme.
 - [Previous Description page at Surtsey.org](https://web.archive.org/web/20250324025411/https://www.surtsey.org/projects/the-maritime-search-and-rescue-database/)(Archived webpage)
 - **2019 Proposal** - “Consolidating and Sharing maritime SAR Information for Improved Training - One project proposal and One call for contributions”, Submisison to World Maritime Rescue Congress (an IMRF-International Maritime Rescue Congress event), 2019, Canada.
 	- [Submission documentation](https://drive.google.com/drive/folders/1wWgdWdPG5B9OlZ5zOEw4n-8LlcuZrk8_?usp=sharing)
