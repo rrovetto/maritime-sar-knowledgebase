@@ -3,7 +3,7 @@ Developing a database and knowledge sharing framework for maritime search and re
 
 <p align="center">You can <b>Help make sea rescue safer by sharing knowledge.</b></p>
 
-Do you share the vision? [Contact to Collaborate](https://thespiritofsar.wordpress.com/contact). [Donate to Develop (PayPal)](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=Help+create+the+worlds+first+database+about+maritime+search+%26+rescue+knowledge.+Saving+lives+by+sharing+knowledge.+Thank+you.&currency_code=USD) or [Donate via Patreon](https://patreon.com/user?u=16992629)
+Do you share the vision? [Contact to Collaborate](https://thespiritofsar.wordpress.com/contact) - [Donate to Develop (PayPal)](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=Help+create+the+worlds+first+database+about+maritime+search+%26+rescue+knowledge.+Saving+lives+by+sharing+knowledge.+Thank+you.&currency_code=USD) or [Donate via Patreon](https://patreon.com/user?u=16992629)
 
 ## Summary
 ![image](images/International-Database-MarineSAR-Knowledge_Rovetto_v1.jpg)
