@@ -1,27 +1,24 @@
 # Maritime Search and Rescue Knowledgebase <img align="left" width="80" height="100" src="images/marinSARdb-logo.jpg">
 Developing a database and knowledge sharing framework for maritime search and rescue, from best-practices and lessons-learned to SAR resources. 
 
-You can **Help make sea rescue safer by sharing knowledge.** [Donate here](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=Help+create+the+worlds+first+database+about+maritime+search+%26+rescue+knowledge.+Saving+lives+by+sharing+knowledge.+Thank+you.&currency_code=USD)
-## Status
-- In-progress.
-- Do you share the vision? [Contact to Collaborate](mailto:maritimeSARemail@gmail.com) who shares the vision. 
-- _Seeking_: Partner organizations, investors, sponsors, technological resources, technical service-providers.
-- _Project name_: Know-SAR. The name "Know-SAR" has the following meaning. "Know" is short for "Knowledge", minimally pointing to the goal of preserving and sharing SAR knowledge. It also points to innovating in the envisioned AI knowledge-based approach. The pronunciation of the word "know" serves to convey a second meaning: That we aim to achieve a world where there are no SAR events, a state of persistent safety. Toward that ideal state, the project will facilitate sharing of knowledge in order to maximize continuous improvement in SAR operations and research. 
+<p align="center">You can <b>Help make sea rescue safer by sharing knowledge.</b></p>
+
+Do you share the vision? [Contact to Collaborate](https://thespiritofsar.wordpress.com/contact). [Donate via PayPal](https://www.paypal.com/donate/?business=JN9YD94DHA87Y&no_recurring=0&item_name=Help+create+the+worlds+first+database+about+maritime+search+%26+rescue+knowledge.+Saving+lives+by+sharing+knowledge.+Thank+you.&currency_code=USD) or [Donate via Patreon](https://patreon.com/user?u=16992629)
 
 ## Description
 
 ![image](images/International-Database-MarineSAR-Knowledge_Rovetto_v1.jpg)
 
-The goal of this project is to create an internationally-accessible database for the global maritime search and rescue (SAR community to access and add entries about: lessons-learned, best-practices, and recommendations for operations, managemenet and other topics. In all this supports an organizations _knowledge management_ strategy in the following ways. The database containing the target information can be understood as a knowledgebase. This single or multiple knowledgebase(s) facilitates _knowledge preservation_. The intertnational scope, accessibility, and contributions facilitates knowledge transfer and knowledge exchange/sharing; it also afford future data analysis for added _knowledge discovery_. 
+The goal of this project is to create a globally-accessible database of maritime search and rescue knowledge. It will allow users to search for and contribute SAR information: lessons-learned, best-practices, recommendations, and specific topics such as SAR vehicles and SAR events. In all, this supports an organizations _knowledge management_ strategy in the following ways. The database containing the information expressing knowledge, making the system understood informally as a knowledgebase. With AI knowledge-based approaches, it is formally a knowledgebase. Either single or multiple knowledgebase(s) facilitates _knowledge preservation_ and data archiving. The intertnational scope, accessibility, and contribution potential facilitates _knowledge transfer_ and _knowledge exchange/sharing_; it also afford future data analysis for added _knowledge discovery_. 
 
 ## Scope 
 Preserving and storing:
-- Essential know-how and information for safety and successfully conducting water SAR missions and training exercises
-- Implicit knowledge held and learned by seasoned practitioners
+- Essential knowledge & know-how for safety and successfully conducting water SAR missions and training exercises: local or global best-practices, lessons, recommendations, which can be compared. 
+- Implicit knowledge held and learned by active, inactive or retired practitioners
 - Data and discoveries from data or studies
 - Organizational or internal best-practices that a given org. is willing to share as a global recommendation
-- 101 essential knowledge
-- Interpersonal and management knowledge that helfully facilitate mission success, positive and safe marine SAR culture,
+- 101 essential knowledge (transferable, general domain knowledge)
+- Interpersonal and management knowledge that facilitates: operations, mission success, positive and safe marine SAR social environments
 - Vehcile & Equipment specificaitons
 - ... to be added ... 
 
@@ -29,11 +26,15 @@ Preserving and storing:
 
 ## Access & Contribute Entries
 - **Prototype Database Online**
-- **Current Project Description Page**: 	https://purl.org/know-sar (Redirects to GitHub Io page)
-- **To Contribute Entries in Templates**: 	https://purl.org/knowsar-contribute (redirects to [GoogleSheet](https://docs.google.com/spreadsheets/d/1En-2klV5RyvoVIUaFKFvSG4Ik1SD2-U_MXMcHJFRY7Y/))
-- **Submit your input via online Form**:	https://tinyurl.com/KnowSAR-GenInput (Redirect to GoogleForm )
-- **To Donate**: 				https://purl.org/know-sar-donate (Redirects to PayPal)
+- **Current Project Description Page**: 	https://purl.org/know-sar (Redirects to GitHub-Io page)
+- **Contribute Entries in Templates**: 		https://purl.org/knowsar-contribute (redirects to [GoogleSheet](https://docs.google.com/spreadsheets/d/1En-2klV5RyvoVIUaFKFvSG4Ik1SD2-U_MXMcHJFRY7Y/))
+- **Submit your Input via online Form**:	https://tinyurl.com/KnowSAR-GenInput (Redirect to GoogleForm )
+- **Donate**:	 				https://purl.org/know-sar-donate (Redirects to PayPal)
 
+## Status
+- In-progress.
+- _Seeking_: Partner organizations, investors, sponsors, technological resources, technical service-providers.
+- _Project name_: Know-SAR. The name "Know-SAR" has the following meaning. "Know" is short for "Knowledge", minimally pointing to the goal of preserving and sharing SAR knowledge. It also points to innovating in the envisioned AI knowledge-based approach. The pronunciation of the word "know" serves to convey a second meaning: That we aim to achieve a world where there are no SAR events, a state of persistent safety. Toward that ideal state, the project will facilitate sharing of knowledge in order to maximize continuous improvement in SAR operations and research. 
 ##  Author
 [Robert J. Rovetto](https://github.com/rrovetto) -- [Contact](mailto:rrovetto@terpalum.umd.edu)
 - Maritime safety professional, Certified commercial mariner, Philosopher, Concept Engineer, [Formal ontologist](https://ontologforum.org/index.php/RobertRovetto), Knowledge representation practitioner
