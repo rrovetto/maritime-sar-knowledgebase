@@ -13,23 +13,23 @@ The goal of this project is to create a globally-accessible database of maritime
 
 ## Scope 
 Preserving and storing:
-- Essential knowledge & know-how for safety and successfully conducting water SAR missions and training exercises: local or global best-practices, lessons, recommendations, which can be compared. 
-- Implicit knowledge held and learned by active, inactive or retired practitioners
-- Data and discoveries from data or studies
-- Organizational or internal best-practices that a given org. is willing to share as a global recommendation
-- 101 essential knowledge (transferable, general domain knowledge)
-- Interpersonal and management knowledge that facilitates: operations, mission success, positive and safe marine SAR social environments
-- Vehcile & Equipment specificaitons
+- _Essential knowledge & know-how_ for conducting aquatic SAR missions and training. 
+- _Implicit knowledge_ held and learned by active, inactive or retired practitioners
+- _Data and discoveries_ from datasets or studies
+- _Organizational or internal best-practices_
+- _101 fundamentals_: essential, transferable, general domain knowledge
+- _Interpersonal and Management knowledge_ that facilitates: operations, mission success, positive and safe marine SAR social environments
+- _Vehcile & Equipment information_: specifications, etc.
 - ... to be added ... 
 
 ![image](images/AccessDiagram_International-Database-MarineSAR-Knowledge_Rovetto_v1.jpg)
 
 ## Access & Contribute Entries
-- **Prototype Database Online**
-- **Current Project Description Page**: 	https://purl.org/know-sar (Redirects to GitHub-Io page)
-- **Contribute Entries in Templates**: 		https://purl.org/knowsar-contribute (redirects to [GoogleSheet](https://docs.google.com/spreadsheets/d/1En-2klV5RyvoVIUaFKFvSG4Ik1SD2-U_MXMcHJFRY7Y/))
-- **Submit your Input via online Form**:	https://tinyurl.com/KnowSAR-GenInput (Redirect to GoogleForm )
-- **Donate**:	 				https://purl.org/know-sar-donate (Redirects to PayPal)
+- **Current Project Description Page**: 	[https://purl.org/know-sar](https://purl.org/know-sar) (Redirects to GitHub-Io page)
+- **Contribute Entries in Templates**: 		[https://purl.org/knowsar-contribute](https://purl.org/knowsar-contribute) (redirects to [GoogleSheet](https://docs.google.com/spreadsheets/d/1En-2klV5RyvoVIUaFKFvSG4Ik1SD2-U_MXMcHJFRY7Y/))
+- **Contribute Best-practices (via Form)**:	[https://purl.org/knowsar-bestpractices-form](https://purl.org/knowsar-bestpractices-form) (redirect to GoogleForm)
+- **Submit your Input via online Form**:	[https://tinyurl.com/KnowSAR-GenInput](https://tinyurl.com/KnowSAR-GenInput) (Redirect to GoogleForm )
+- **Donate**:	 				[https://purl.org/know-sar-donate](https://purl.org/know-sar-donate) (Redirects to PayPal) or [via Patreon](https://patreon.com/user?u=16992629)
 
 ## Status
 - In-progress.
