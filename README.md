@@ -45,7 +45,7 @@ It supports an organizations _knowledge management_ strategy in the following wa
 ## Works & History
 - Article: "Toward an International Database for Maritime Search and Rescue"
 	- 2024 submitted to but rejected from Australian Journal of Emergency Management.
- 	- 2024 submmitted & accepted to Journal of Emergency Management.
+	- 2024 submmitted & accepted to Journal of Emergency Management.
 - [Grant proposal](https://github.com/rrovetto/rrovetto/blob/5160ddd1f3c18db8d6eafbe4eead23834d163a4d/affiliations-and-work/submissions/Lloyds/KnowSAR_MarineSAR-DB_LloydsGrantApp_Rovetto.pdf) "KnowSAR - Toward an International Maritime SAR Database and Knowledgebase", submitted but rejected from Lloyds Register Small Grant Scheme.
 - [Previous Description page at Surtsey.org](https://web.archive.org/web/20250324025411/https://www.surtsey.org/projects/the-maritime-search-and-rescue-database/)(Archived webpage)
 - **2019 Proposal** - “Consolidating and Sharing maritime SAR Information for Improved Training - One project proposal and One call for contributions”, Submisison to World Maritime Rescue Congress (an IMRF-International Maritime Rescue Congress event), 2019, Canada.
